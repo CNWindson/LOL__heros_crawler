@@ -1,4 +1,4 @@
-# LOL__heros_crawler
+# LOL_heros_crawler
 
 英雄联盟宇宙英雄高清大图爬虫
 
